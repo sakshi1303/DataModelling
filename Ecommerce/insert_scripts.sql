@@ -20,4 +20,12 @@ insert into product values (8, 'Dell', 'Electronics', 'Laptops');
 insert into product values (9, 'OPPO', 'Electronics', 'Mobile');
 insert into product values (10, 'Lenovo', 'Electronics', 'Tablets');
 
+##Payment##
+
+insert into payment values (1, 'Netbanking');
+insert into payment values (2, 'Credit Card');
+insert into payment values (3, 'Debit Card');
+insert into payment values (4, 'UPI');
+insert into payment values (5, 'Cash');
+insert into payment values (6, 'GiftCard');
 
