@@ -1,0 +1,8 @@
+##Customer##
+
+insert into customer values (1, 'Mary', '9999120192', 'mary123@gmail.com', 'MARY123');
+insert into customer values (2, 'John', '8467123451', 'john456@gmail.com', 'JOHN456');
+insert into customer values (3, 'Sherlock', '9876543210', 'sherlock224@gmail.com', 'SHERLOCK224');
+insert into customer values (4, 'Rose', '7612345098', 'rose246@gmail.com', 'ROSE246');
+insert into customer values (5, 'Paul', '6541890364', 'paul789@gmail.com', 'PAUL789');
+insert into customer values (6, 'Nat', '9812376504', 'nat567@gmail.com', 'NAT567');
