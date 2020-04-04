@@ -1,5 +1,5 @@
 create table customer
-( custid number,
+( custid number ,
   custname varchar2(50),
  contactno number,
   email varchar2(50),
@@ -8,10 +8,10 @@ create table customer
 
 
 create table product
-( prodcategory varchar2(50),
-  prodsubcategory varchar2(50),
-  productid number,
-  productname varchar2(50)
+( productid number,
+  productname varchar2(50),
+  prodcategory varchar2(50),
+  prodsubcategory varchar2(50)
 );
 
 create table payment
@@ -38,7 +38,7 @@ create table order_delivery
 
 
 create table transactions
-(orderid number,
- transactionid number,
- paymenttypeid number
+(transactionid number,
+ paymenttypeid number,
+ orderid number
 );
