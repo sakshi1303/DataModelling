@@ -51,3 +51,9 @@ insert into order_delivery values (3, '05-APR-2020', 'Stratford', 'InProgress');
 insert into order_delivery values (4, '20-JAN-2020', 'EastHam', 'Delivered');
 
 
+##Transactions##
+
+insert into transactions values (1, 1, 1);
+insert into transactions values (2, 1, 2);
+insert into transactions values (3, 2, 3);
+insert into transactions values (4, 4, 4);
