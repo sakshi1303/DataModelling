@@ -43,4 +43,11 @@ insert into orders values (4, 2, 3, 6, '10-JAN-2019', 500);
 insert into orders values (4, 3, 4, 6, '10-JAN-2020', 500);
 
 
+##OrderDelivery##
+
+insert into order_delivery values (1, '05-JAN-2020', 'Ilford', 'Delivered');
+insert into order_delivery values (2, '11-NOV-2019', 'Liverpool', 'Delivered');
+insert into order_delivery values (3, '05-APR-2020', 'Stratford', 'InProgress');
+insert into order_delivery values (4, '20-JAN-2020', 'EastHam', 'Delivered');
+
 
