@@ -6,3 +6,18 @@ insert into customer values (3, 'Sherlock', '9876543210', 'sherlock224@gmail.com
 insert into customer values (4, 'Rose', '7612345098', 'rose246@gmail.com', 'ROSE246');
 insert into customer values (5, 'Paul', '6541890364', 'paul789@gmail.com', 'PAUL789');
 insert into customer values (6, 'Nat', '9812376504', 'nat567@gmail.com', 'NAT567');
+
+##Product##
+
+insert into product values (1, 'Tops', 'Women', 'Apparels');
+insert into product values (2, 'Trousers', 'Women', 'Apparels');
+insert into product values (3, 'Blazers', 'Women', 'Apparels');
+insert into product values (4, 'Shirt', 'Men', 'Apparels');
+insert into product values (5, 'Jeans', 'Women', 'Apparels');
+insert into product values (6, 'Blazers', 'Women', 'Apparels');
+insert into product values (7, 'HP', 'Electronics', 'Laptops');
+insert into product values (8, 'Dell', 'Electronics', 'Laptops');
+insert into product values (9, 'OPPO', 'Electronics', 'Mobile');
+insert into product values (10, 'Lenovo', 'Electronics', 'Tablets');
+
+
