@@ -29,3 +29,18 @@ insert into payment values (4, 'UPI');
 insert into payment values (5, 'Cash');
 insert into payment values (6, 'GiftCard');
 
+##Orders##
+
+insert into orders values (1, 1, 1, 1, '31-DEC-2019', 500);
+insert into orders values (1, 2, 5, 1, '31-DEC-2019', 2000);
+insert into orders values (1, 3, 2, 1, '31-DEC-2019', 1000);
+insert into orders values (1, 4, 3, 1, '31-DEC-2019', 5000);
+insert into orders values (2, 1, 9, 2, '31-OCT-2019', 20000);
+insert into orders values (2, 2, 10, 2, '31-OCT-2019', 10000);
+insert into orders values (3, 1, 8, 4, '15-MAR-2020', 50000);
+insert into orders values (4, 1, 2, 6, '10-JAN-2019', 500);
+insert into orders values (4, 2, 3, 6, '10-JAN-2019', 500);
+insert into orders values (4, 3, 4, 6, '10-JAN-2020', 500);
+
+
+
